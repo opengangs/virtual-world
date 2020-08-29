@@ -1,0 +1,36 @@
+.custom-site-header {
+	padding-top: 10px;
+}
+
+.custom-site-header > img {
+	border-radius: 10px 10px 0px 0px;
+}
+
+.custom-bg-footer {
+	background-color: #666;
+}
+
+.custom-link-footer {
+	color: #FFF;
+	font-weight: bold;
+}
+
+.custom-link-footer > a:focus, a:hover {
+	color: #FFF;
+	text-decoration: none;
+}
+
+div#centerDiv {
+	width: 100%;
+	text-align: center;
+	border: 1px solid red;
+}
+ul.centerUL {
+	margin: 2px auto;
+	line-height: 1.4;
+	padding-left: 0;
+}
+.centerUL li {
+	display: inline;
+	text-align: center;
+}
